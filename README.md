@@ -1,1 +1,1 @@
-# SUST-IUPC-Practice
+# Contest Prep Sheet
